@@ -1,2 +1,9 @@
 # firstprogram1
-Trying to create a program for understanding GIT
+//Trying to create a program for understanding GIT
+class A
+{
+  public static void main(String args[])
+  {
+    System.out.println("GIT HUB");
+  }
+}
